@@ -38,9 +38,7 @@ Experienced IT professional specializing in data analysis, business intelligence
 - Cleaned, modeled, and analyzed large datasets to uncover actionable insights and inform strategic decisions.
 - Created dynamic Power BI dashboards that effectively conveyed KPIs and provided data-driven recommendations for client and internal stakeholders.
 - Demonstrated strong communication skills by preparing PowerPoint presentations and delivering video briefings to present complex data clearly and effectively.
-- **View my portfolio of dashboard visualizations on GitHub:** [github.com/kelomni/allenkelly](https://github.com/kelomni/allenkelly)
-
-*Data Analytics Intern*\
+- **View my portfolio of dashboard visualizations on GitHub:** https://tinyurl.com/42y3pyyb
 *2024 – Present*
 
 - Completed advanced data analytics training in Excel, SQL, Power BI, and Tableau.
