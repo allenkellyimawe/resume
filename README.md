@@ -40,7 +40,7 @@ Experienced IT professional specializing in data analysis, business intelligence
 *January 2025*
 
 - Completed a simulation focused on advising a hypothetical social media client as a Data Analyst at Accenture.  
-- Cleaned, modeled, and analyzed 7 datasets to uncover insights into content trends for strategic decisions.  
+- Cleaned, modeled, and analyzed datasets to uncover insights into content trends for strategic decisions.  
 - Prepared a PowerPoint deck and video presentation to communicate key insights for the client and internal stakeholders.  
 - **Insight:** This experience deepened my understanding of client-centric analytics and the importance of clear data storytelling.
 
@@ -98,11 +98,11 @@ Rivers State University of Science and Technology, Port Harcourt
 
 ### **CERTIFICATIONS & TRAINING**
 
-- **Professional Data Analyst Certification** – SkillBoost Africa: Advanced Excel, SQL, Power BI, Tableau
-- **PWC - Power BI Job Simulation Certificate of Completion**
+- **SkillBoost Limited** – Professional Data Analyst Certification: Advanced Excel, SQL, Power BI, Tableau
+- **PWC** - Power BI Job Simulation Certificate of Completion
 - **Accenture** - Data Analytics and Visualization Job Simulation Certificate of Completion
-- **ITI V3 Certified** – IT Service Management  
-- **Microsoft Certified Technology Specialist (MCTS)** – Windows Server  
+- **ITIL V3 Certified** – IT Service Management  
+- **Microsoft Certified Technology Specialist (MCTS)** – Windows Server  Management
 
 
 ---
@@ -114,4 +114,3 @@ Rivers State University of Science and Technology, Port Harcourt
 - **References:** Available upon request  
 
 ---
-</span>
