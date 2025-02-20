@@ -1,4 +1,4 @@
-![Allen Kelly Imawe](assets/images/assets/images/rsz_1pst-allen.jpg)
+![Allen Kelly Imawe](assets/images/pst-allen.jpg)
 
 No. 1 Omachi Lane, Rumurolu, Woji, Port Harcourt, Rivers State, Nigeria\
 Mobile: 08122225234 | Email: [allen.k.imawe@gmail.com](mailto\:allen.k.imawe@gmail.com)\
