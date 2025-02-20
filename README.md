@@ -6,7 +6,7 @@ LinkedIn: [linkedin.com/in/me](https://www.linkedin.com/in/me/)
 <div style="display: flex; align-items: center; color: black;">
 
   <!-- Left-aligned Image -->
-  <img src="assets/images/PST.-ALLEN-10.jpg" 
+  <img src="assets/images/pst-allen.jpg" 
        alt="Allen Kelly Imawe" 
        width="300" 
        style="object-fit: cover; object-position: top; border-radius: 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); margin-right: 20px;">
