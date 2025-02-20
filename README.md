@@ -32,7 +32,9 @@ Experienced IT professional specializing in data analysis, business intelligence
 - Completed advanced data analytics training in Excel, SQL, Power BI, and Tableau.
 - Worked on real-world projects involving data cleaning and visualization.
 - Executed capstone projects focusing on data-driven decision-making.
-- Integrated learnings from the **Accenture North America Data Analytics and Visualization** and **PwC Switzerland Power BI Job Simulations** to deliver comprehensive business insights and strategies.
+- Integrated learnings from the **Accenture North America Data Analytics and Visualization** and **PwC Switzerland Power BI Job Simulations**
+  to deliver comprehensive business insights and strategies. Accenture North America Data Analytics and Visualization Job Simulation
+- Completed a simulation focused on advising a hypothetical social media client  as a Data Analyst at Accenture
 - Cleaned, modeled, and analyzed large datasets to uncover actionable insights and inform strategic decisions.
 - Created dynamic Power BI dashboards that effectively conveyed KPIs and provided data-driven recommendations for client and internal stakeholders.
 - Demonstrated strong communication skills by preparing PowerPoint presentations and delivering video briefings to present complex data clearly and effectively.
