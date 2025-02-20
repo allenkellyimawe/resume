@@ -62,7 +62,7 @@ Experienced IT professional specializing in data analysis, business intelligence
 - Conducted staff training on IT tools to increase workflow efficiency.
 
 #### **KAMI INTEGRATED SERVICE / KAMIFOODMART / LOGISTICS**  
-*Admin & Business Development*  
+*Ict Admin & Business Development*  
 *2017 – 2022*
 
 - Boosted sales through digital marketing and IT solutions.  
@@ -98,9 +98,12 @@ Rivers State University of Science and Technology, Port Harcourt
 
 ### **CERTIFICATIONS & TRAINING**
 
-- **ITIL V3 Certified** – IT Service Management  
+- **Professional Data Analyst Certification** – SkillBoost Africa: Advanced Excel, SQL, Power BI, Tableau
+- **PWC - Power BI Job Simulation Certificate of Completion**
+- **Accenture** - Data Analytics and Visualization Job Simulation Certificate of Completion
+- **ITI V3 Certified** – IT Service Management  
 - **Microsoft Certified Technology Specialist (MCTS)** – Windows Server  
-- **Data Analytics Training** – SkillBoost Africa: Advanced Excel, SQL, Power BI, Tableau  
+
 
 ---
 
