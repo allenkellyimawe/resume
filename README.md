@@ -1,8 +1,11 @@
 ![Allen Kelly Imawe](assets/images/pst-allen.jpg)
+
+**ALLEN KELLY IMAWE**\
 No. 1 Omachi Lane, Rumurolu, Woji, Port Harcourt, Rivers State, Nigeria\
-Mobile: 08122225234 | Email: [allen.k.imawe@gmail.com](mailto\:allen.k.imawe@gmail.com)\
+Mobile: 08122225234 | Email: [allen.k.imawe@gmail.com](mailto:allen.k.imawe@gmail.com)\
 LinkedIn: [linkedin.com/in/me](https://www.linkedin.com/in/me/)
 
+---
 
 ### **PROFESSIONAL SUMMARY**
 
@@ -22,23 +25,19 @@ Experienced IT professional specializing in data analysis, business intelligence
 
 ### **PROFESSIONAL EXPERIENCE**
 
-#### **Accenture North America Data Analytics and Visualization Job Simulation on Forage**
-
-*January 2025*
-
-- Completed a simulation focused on advising a hypothetical social media client as a Data Analyst at Accenture.
-- Cleaned, modeled, and analyzed 7 datasets to uncover insights into content trends to inform strategic decisions.
-- Prepared a PowerPoint deck and video presentation to communicate key insights for the client and internal stakeholders.
-
-#### **PwC Switzerland Power BI Job Simulation on Forage**
-
-*January 2025*
-
-- Strengthened Power BI skills through real-world simulations and data visualization.
-- Created dashboards that effectively conveyed KPIs and actionable insights.
-- Analyzed HR data to identify root causes of gender balance issues.
-
 #### **SKILLBOOST AFRICA**
+
+*Data Analytics Intern*\
+*2024 – Present*\
+
+- Completed advanced data analytics training in Excel, SQL, Power BI, and Tableau.
+- Worked on real-world projects involving data cleaning and visualization.
+- Executed capstone projects focusing on data-driven decision-making.
+- Integrated learnings from the **Accenture North America Data Analytics and Visualization** and **PwC Switzerland Power BI Job Simulations** to deliver comprehensive business insights and strategies.
+- Cleaned, modeled, and analyzed large datasets to uncover actionable insights and inform strategic decisions.
+- Created dynamic Power BI dashboards that effectively conveyed KPIs and provided data-driven recommendations for client and internal stakeholders.
+- Demonstrated strong communication skills by preparing PowerPoint presentations and delivering video briefings to present complex data clearly and effectively.
+- **View my portfolio of dashboard visualizations on GitHub:** [github.com/kelomni/allenkelly](https://github.com/kelomni/allenkelly)
 
 *Data Analytics Intern*\
 *2024 – Present*
@@ -46,6 +45,10 @@ Experienced IT professional specializing in data analysis, business intelligence
 - Completed advanced data analytics training in Excel, SQL, Power BI, and Tableau.
 - Worked on real-world projects involving data cleaning and visualization.
 - Executed capstone projects focusing on data-driven decision-making.
+- Integrated learnings from the **Accenture North America Data Analytics and Visualization** and **PwC Switzerland Power BI Job Simulations** to deliver comprehensive business insights and strategies.
+- Cleaned, modeled, and analyzed large datasets to uncover actionable insights and inform strategic decisions.
+- Created dynamic Power BI dashboards that effectively conveyed KPIs and provided data-driven recommendations for client and internal stakeholders.
+- Demonstrated strong communication skills by preparing PowerPoint presentations and delivering video briefings to present complex data clearly and effectively.
 
 #### **FRANKLEAR RESOURCES**
 
