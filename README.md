@@ -1,4 +1,4 @@
-![Allen Kelly Imawe](assets/images/pst-allen.jpg)
+
 
 **ALLEN KELLY IMAWE**  
 No. 1 Omachi Lane, Rumurolu, Woji, Port Harcourt, Rivers State, Nigeria  
