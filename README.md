@@ -4,6 +4,12 @@ No. 1 Omachi Lane, Rumurolu, Woji, Port Harcourt, Rivers State, Nigeria\
 Mobile: 08122225234 | Email: [allen.k.imawe@gmail.com](mailto:allen.k.imawe@gmail.com)\
 LinkedIn: [linkedin.com/in/me](https://www.linkedin.com/in/me/)
 
+You can explore my projects below:
+# My Portfolio
+https://tinyurl.com/yb9cmm95
+
+<span style="color: black;">Welcome to my dashboard visualization portfolio.</span>
+
 ---
 
 ### **PROFESSIONAL SUMMARY**
