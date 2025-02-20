@@ -1,10 +1,7 @@
-
- 
-**ALLEN KELLY IMAWE**
+**ALLEN KELLY IMAWE**\
 No. 1 Omachi Lane, Rumurolu, Woji, Port Harcourt, Rivers State, Nigeria\
 Mobile: 08122225234 | Email: [allen.k.imawe@gmail.com](mailto\:allen.k.imawe@gmail.com)\
 LinkedIn: [linkedin.com/in/me](https://www.linkedin.com/in/me/)
-
 
 ---
 
@@ -26,16 +23,6 @@ Experienced IT professional specializing in data analysis, business intelligence
 
 ### **PROFESSIONAL EXPERIENCE**
 
-#### **SKILLBOOST AFRICA**
-
-*Data Analytics Intern*\
-*2024 – Present*
-
-- Completed advanced data analytics training in Excel, SQL, Power BI, and Tableau.
-- Worked on real-world projects involving data cleaning and visualization.
-- Executed capstone projects focusing on data-driven decision-making.
-
-
 #### **Accenture North America Data Analytics and Visualization Job Simulation on Forage**
 
 *January 2025*
@@ -52,6 +39,14 @@ Experienced IT professional specializing in data analysis, business intelligence
 - Created dashboards that effectively conveyed KPIs and actionable insights.
 - Analyzed HR data to identify root causes of gender balance issues.
 
+#### **SKILLBOOST AFRICA**
+
+*Data Analytics Intern*\
+*2024 – Present*
+
+- Completed advanced data analytics training in Excel, SQL, Power BI, and Tableau.
+- Worked on real-world projects involving data cleaning and visualization.
+- Executed capstone projects focusing on data-driven decision-making.
 
 #### **FRANKLEAR RESOURCES**
 
