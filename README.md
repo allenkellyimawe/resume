@@ -2,7 +2,7 @@
 
 **ALLEN KELLY IMAWE**  
 No. 1 Omachi Lane, Rumurolu, Woji, Port Harcourt, Rivers State, Nigeria  
-Mobile: +2348122225234 | Email: [allen.k.imawe@gmail.com](mailto:allen.k.imawe@gmail.com)  
+Mobile: +234 8122225234 | Email: [allen.k.imawe@gmail.com](mailto:allen.k.imawe@gmail.com)  
 LinkedIn: [linkedin.com/in/me](https://www.linkedin.com/in/me/) | Dropbox Portfolio: [Portfolio Data Analytics](https://www.dropbox.com/home/Portfolio%20Data%20Analytics)
 
 <span style="color: black;">
