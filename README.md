@@ -3,7 +3,16 @@ No. 1 Omachi Lane, Rumurolu, Woji, Port Harcourt, Rivers State, Nigeria\
 Mobile: 08122225234 | Email: [allen.k.imawe@gmail.com](mailto\:allen.k.imawe@gmail.com)\
 LinkedIn: [linkedin.com/in/me](https://www.linkedin.com/in/me/)
 
+<div style="display: flex; align-items: center; color: black;">
 
+  <!-- Left-aligned Image -->
+  <img src="assets/images/PST.-ALLEN-10.jpg" 
+       alt="Allen Kelly Imawe" 
+       width="300" 
+       style="object-fit: cover; object-position: top; border-radius: 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); margin-right: 20px;">
+
+  <!-- Resume Content -->
+  <div>
 ### **PROFESSIONAL SUMMARY**
 
 Experienced IT professional specializing in data analysis, business intelligence, and IT infrastructure. Proficient in tools like Excel, SQL, Power BI, and Tableau to deliver data-driven insights. Skilled in IT security, network infrastructure, and process optimization. Adept at driving business growth and enhancing operational efficiency through technology-driven solutions.
