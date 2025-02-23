@@ -1,5 +1,4 @@
-# resume
-# Resume - Allen Kelly Imawe
+#Allen Kelly Imawe
 
 This repository contains an animated, interactive resume built with Python, showcasing my professional journey as an IT and data analytics expert.
 
